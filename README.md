@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Daily Planner
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and intuitive daily planner application to help you manage your tasks efficiently.
 
-## Available Scripts
+## Fitur
 
-In the project directory, you can run:
+- **Menambahkan Tugas**: Tambahkan tugas baru dengan deskripsi dan kategori.
+- **Mengedit Tugas**: Ubah detail tugas yang sudah ada.
+- **Menghapus Tugas**: Hapus tugas yang tidak lagi diperlukan.
+- **Pengingat**: Setel pengingat untuk tugas penting.
+- **Kategorisasi**: Kategorikan tugas dengan warna untuk organisasi yang lebih baik.
 
-### `npm start`
+## Teknologi yang Digunakan
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React**: Untuk membangun antarmuka pengguna.
+- **Tailwind CSS**: Untuk styling yang responsif dan modern.
+- **Local Storage**: Untuk menyimpan data tugas secara lokal di browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instalasi
 
-### `npm test`
+1. Clone repositori ini:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+git clone https://github.com/aessaputra/daily-planner.git
+```
 
-### `npm run build`
+2. Masuk ke direktori proyek:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+cd daily-planner
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Instal dependensi:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+npm install
+```
 
-### `npm run eject`
+4. Jalankan aplikasi:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Cara Menggunakan
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Buka aplikasi di browser Anda.
+2. Tambahkan tugas baru dengan mengisi deskripsi dan memilih kategori.
+3. Gunakan tombol "Edit" untuk mengubah tugas yang ada.
+4. Hapus tugas yang tidak diperlukan dengan tombol "Hapus".
+5. Setel pengingat untuk tugas penting agar tidak terlewat.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Kontribusi
 
-## Learn More
+Jika Anda ingin berkontribusi pada proyek ini, silakan lakukan fork repositori ini dan kirim pull request dengan perubahan Anda.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Lisensi
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+MIT License
 
-### Code Splitting
+Copyright (c) 2025 Aes Saputra
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-### Analyzing the Bundle Size
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+2. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### Making a Progressive Web App
+## Kontak
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya di [hi@aessaputra.net](mailto:hi@aessaputra.net).
